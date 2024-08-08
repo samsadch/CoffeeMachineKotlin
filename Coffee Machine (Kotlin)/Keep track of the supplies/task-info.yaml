@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/machine/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/CoffeeMachineTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/67/stages/364/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 08 Aug 2024 11:34:25 UTC"
+record: 5

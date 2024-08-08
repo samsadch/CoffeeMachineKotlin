@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Kotlin)/task/build/
+/Coffee Machine (Kotlin)/task/out/
+/Coffee Machine (Kotlin)/task/out/production/classes/
